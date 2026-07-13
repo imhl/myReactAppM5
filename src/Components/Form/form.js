@@ -40,7 +40,7 @@ export const Login = ({getToken}) => {
 
             <div className="card mt-5 mx-auto mb-5 transparent-border" >
             <div className="card-body">
-            <h1 className="display-4 text-center mb-4" style={{fontSize: '2rem'}}>Enter Crendtials to Access <br /> StaycationX APIs</h1>
+            <h1 className="display-4 text-center mb-4" style={{fontSize: '2rem'}}>Enter Credentials to Access <br /> StaycationX APIs</h1>
             <form onSubmit={handleSubmit} class="needs-validation" novalidate>
             <div className="row align-items-center">
                 <label htmlFor="userid" className="col-sm-3 col-form-label">User ID:</label>

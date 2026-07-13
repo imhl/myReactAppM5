@@ -6,7 +6,7 @@
     "For non-container",
     "\"proxy\": \"http://127.0.0.1:5000\","
   ],
-  "proxy": "http://frontend:5000",
+  "proxy": "http://backend:5000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
